@@ -54,7 +54,7 @@ def main():
     solve()
     print("Done")
     print(
-        "Link to see map: https://github.com/falcol/"
+        "Link to see map: https://github.com/rubydog1999/crawling_ggmap/blob/master/result.geojson"
         "BeerAroundPymi/blob/master/pymi_beer.geojson"
     )
 
