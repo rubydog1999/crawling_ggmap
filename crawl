@@ -25,9 +25,9 @@ import json
 def location():
     geoMap = {"type": "FeatureCollection", "features": []}
     r = requests.get(
-            "https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=21.012985,105.821839&radius=2500&type=restaurant&key=APIkey")
+            "https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=21.012985,105.821839&radius=2500&type=restaurant&key=AIzaSyBsiw8du5Juo3LDlRQERjOwAxuUZKXLJO4")
     d = json.loads(r.text)
-    length = len(d)
+    length = len(d['results'])
     for i in range(length):
         lat = (d['results'][i]['geometry']['location']['lat'])
         lng = (d['results'][i]['geometry']['location']['lng'])
@@ -43,7 +43,7 @@ def location():
 
 def solve():
     data = location()
-    assert isinstance(data, dict)
+
 
     with open("pymi_beer.geojson", "wt", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=4)
