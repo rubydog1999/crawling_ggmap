@@ -52,6 +52,214 @@
             "properties": {
                 "name": "Miwa Japanese Restaurant"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8127361,
+                    21.0174347
+                ]
+            },
+            "properties": {
+                "name": "Sumo Yakiniku Huỳnh Thúc Kháng"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.842397,
+                    21.0197892
+                ]
+            },
+            "properties": {
+                "name": "Phở Chí"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8167398,
+                    21.0198232
+                ]
+            },
+            "properties": {
+                "name": "Hoa Ý Pizza Restaurant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8194284,
+                    21.0136347
+                ]
+            },
+            "properties": {
+                "name": "Esalen Restaurant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8324293,
+                    21.01734639999999
+                ]
+            },
+            "properties": {
+                "name": "Công ty CP TM & DV Công Nghệ Số Vĩnh Phát"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8122873,
+                    21.0121262
+                ]
+            },
+            "properties": {
+                "name": "Quán Bánh Cuốn Gia An"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8177525,
+                    21.0193324
+                ]
+            },
+            "properties": {
+                "name": "Nhà Hàng 7 Cua"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8242192,
+                    21.0183815
+                ]
+            },
+            "properties": {
+                "name": "Nhà hàng YLY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.821022,
+                    21.0192342
+                ]
+            },
+            "properties": {
+                "name": "Lý số Hội quán"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8198763,
+                    21.0134073
+                ]
+            },
+            "properties": {
+                "name": "Công Ty Tnhh BẢO QUÂN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8192317,
+                    21.0063543
+                ]
+            },
+            "properties": {
+                "name": "Nhà Hàng Hương Đồng Nội"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8332203,
+                    21.0155449
+                ]
+            },
+            "properties": {
+                "name": "Nhà Hàng Goldmalt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8248777,
+                    21.0109171
+                ]
+            },
+            "properties": {
+                "name": "Cháo Dinh Dưỡng Linh Hoa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.823721,
+                    21.005478
+                ]
+            },
+            "properties": {
+                "name": "Công ty Cp Rosso Việt Nam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8152529,
+                    21.0134889
+                ]
+            },
+            "properties": {
+                "name": "Nrice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8329111,
+                    21.0194341
+                ]
+            },
+            "properties": {
+                "name": "Cửa hàng điện thoại Thổ Quan"
+            }
         }
     ]
 }
